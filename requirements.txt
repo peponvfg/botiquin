@@ -1,0 +1,5 @@
+discord.py
+python-dotenv
+flask
+PyNaCl
+audioop-lts
